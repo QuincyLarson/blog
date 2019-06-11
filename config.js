@@ -11,7 +11,7 @@ module.exports = {
   author: 'Quincy Larson',
   githubUrl: 'https://github.com/',
   // replace this by the url where your website will be published
-  siteUrl: 'stupefied-haibt-eb42bb',
+  siteUrl: 'https://stupefied-haibt-eb42bb.netlify.com/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'ossia',

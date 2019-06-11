@@ -65,7 +65,7 @@ Saying “Coding is easy!” is like saying “Brain surgery is easy!” Or sayi
 
 > Margret Atwood replies: “What a coincidence, because when I retire, I’m going to be a brain surgeon.”
 
-And yet, marketers continue to say: “Coding is easy!”, “Coding isn’t that hard!”, or my personal favorite, “Coding is easy! It’s the <something that makes coding hard> that’s hard!”
+And yet, marketers continue to say: “Coding is easy!”, “Coding isn’t that hard!”, or my personal favorite, “Coding is easy! It’s the [something that makes coding hard] that’s hard!”
 
 And all that these marketers achieve in saying this is to make people feel dumb — sometimes taking their money in the process.
 

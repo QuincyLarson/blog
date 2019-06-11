@@ -19,14 +19,14 @@ redirect_from:
 
 Here are three stories we published this week that are worth your time:
 
-1.  Full-stack development is alive and well. And for good reasons: [5 minute read](http://bit.ly/2g8zc0N)
+<!-- 1.  Full-stack development is alive and well. And for good reasons: [5 minute read](http://bit.ly/2g8zc0N)
 2.  The 100% correct way to do CSS breakpoints: [7 minute read](http://bit.ly/2fIhUqL)
 3.  <table> prejudice and HTML xenophobia: [4 minute read](http://bit.ly/2fdFeZp)
 
 Bonus: Our community designed laptop stickers. [Get all 4 with free worldwide shipping](http://bit.ly/2cGNEx2).
 
 ![](./asset-2.jpeg)
-
+ -->
 Happy coding,
 
 Quincy Larson, teacher at Free Code Camp
